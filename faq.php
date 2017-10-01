@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1-strict.dtd">
+<html>
+<head>
+<title>NYC TNG:  We are the next generation.</title>
+<link href='main.css' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="/yui/build/base/base-min.css"/>
+<link rel="stylesheet" type="text/css" href="/yui/build/reset-fonts-grids/reset-fonts-grids.css"/>
+
+<meta http-equiv="x-ua-compatible" content="IE=8">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
+<meta name="keywords" content="bdsm,tng,nyctng,nyc,New York City,New York,18-35,M/s,fetish,kink,bondage,master,slave,the next generation"/>
+<meta name="description" content="NYC TNG is a group established to promote and facilitate the gathering and interaction of people between the ages of 18 to 35 who are interested or think they might be interested in the BDSM or M/s lifestyle."/>
+<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+<meta name="theme-color" content="#070707" />
+<!--[if lt IE 7]>
+<style>
+#hd{
+  background-color: #000 !important;
+}
+#bd{
+  background-color: #000 !important;
+}
+</style>
+<![endif]-->
+
+<!--[if gte IE 7]>
+<style>
+#hd{
+    background-image: url('iepng.png');
+}
+#bd{
+    background-image: url('iepng.png');
+}
+</style>
+<![endif]-->
+
+
+
+
+</head>
+<body class='yui-skin-sam'>
+    <div id='doc4' class="yui-t6" style=''>
+        <div id='hd'>
+        <div id='menu'>
+            <a href='/'>Home</a> &bull; <a href='/ethos.php'>Ethos</a> &bull; <a href='/membership.php'>Membership</a> &bull; <a href='/calendar.php'>Calendar</a> &bull; <a href='/fetlife.php'>FetLife</a> &bull; <a href='/links.php'>Links</a> &bull; <a href='/faq.php'>FAQ</a> &bull; <a href='/contact.php'>Contact Us</a>
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 4th Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2014</a></div>-->
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 3rd Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2013</a></div>-->
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 2nd Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2012</a></div>-->
+        </div>
+        <a href='/'><img id='logo' src='nyctng200.png' alt=''/></a>
+        </div>
+
+        <div id='bd'>
+        <div id="yui-main">
+
+            <div class='header'>
+            Frequently Asked Questions
+            </div>
+            <div class='btext topmargin10' style='margin-left: 20px;'>
+            <ul>
+            <li><a href='#q1'>Who can attend NYC TNG meetings?</a></li>
+            <li><a href='#q2'>What the heck goes on at these meetings?</a></li>
+            <li><a href='#q3'>Do I have to go to the party? I thought I was just here for the food!</a></li>
+            <li><a href='#q4'>What do you people wear to these things?</a></li>
+            <li><a href='#q5'>How do I become part of NYC TNG?</a></li>
+            <li><a href='#q6'>So how much does this cost?</a></li>
+            <li><a href='#q7'>Can I come alone or do I need to bring a partner?</a></li>
+            </ul>
+            </div>
+
+            <div id='q1' class='header topmargin50'>
+            Who can attend NYC TNG meetings?
+            </div>
+            <div class='btext topmargin10'>
+            Any individual between the ages of 18 and  35 who is interested in or thinks they may be interested in BDSM is welcome to attend our meetings.  Of course we realize that there are situations where a member is involved with a partner who does not meet the age criteria.  In these situations, the partner is welcome to attend with a TNG-aged person who will be responsible for their behavior at the meeting.
+            </div>
+
+            <div id='q2' class='header topmargin50'>
+            What the heck goes on at these meetings?
+            </div>
+            <div class='btext topmargin10'>
+            Our meetings are informal "munch" style type gatherings held in public restaurants and diners.  Basically, it is a place for like-minded people to get together in an informal setting and talk about whatever comes to mind.  Quite often we will head out to a party or other event afterwards.
+            </div>
+
+            <div id='q3' class='header topmargin50'>
+            Do I have to go to the party? I thought I was just here for the food!
+            </div>
+            <div class='btext topmargin10'>
+            Just because you come to the meeting does not mean that you have to come to the party.  There are plenty of people who come only to the meetings!  When we started TNG, we found that a lot of people were very nervous about going to a party where they didn't know anyone, so we decided to have our meetings beforehand and let people meet and mingle without the pressure of a play party environment.
+            </div>
+
+            <div id='q4' class='header topmargin50'>
+            What do you people wear to these things?
+            </div>
+            <div class='btext topmargin10'>
+            Our meetings have no dress code, but some of the parties we attend do.  Please be sure to check our the details of the specific event. Because we meet in public venues, there are often non-kinky people around, so if you plan on coming to the party, you may want to change into your ass-less chaps there.
+            </div>
+
+            <div id='q5' class='header topmargin50'>
+            How do I become part of NYC TNG?
+            </div>
+            <div class='btext topmargin10'>
+            If you are a kinky person between the ages of 18 to 35, you're already a part of NYC TNG.  If you would like a card that proves this AND entitles you to discounts around NYC, just come to one of our meetings and ask a group moderator for an NYC TNG card.  As always, cards are 100% free!
+            </div>
+
+            <div id='q6' class='header topmargin50'>
+            So how much does this cost?
+            </div>
+            <div class='btext topmargin10'>
+            NYC TNG is 100% free.  There is no cost to attend our meetings or become a member.  Just pay for your own food and drinks.  That said, some of the parties that we attend do charge for attendance so be sure to check out the details for that specific event. 
+            </div>
+
+            <div id='q7' class='header topmargin50'>
+            Can I come alone or do I need to bring a partner?
+            </div>
+            <div class='btext topmargin10'>
+            Coming alone is not a problem. A large part of the people who attend are there alone. After all, this is a place where people come to meet others. Similarly, you do not need to bring anyone to any of the parties. Most of the time people are there just to make friends and find new play partners.
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+
+
+        </div>
+        <div id='ft'>
+        <span style='float: right;'>Background Photo By <a href='http://www.anthelian.com/'>Anthelian</a>.</span>
+        &copy <?php echo date('Y'); ?> NYC TNG.  All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>

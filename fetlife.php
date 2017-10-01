@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1-strict.dtd">
+<html>
+<head>
+<title>NYC TNG:  We are the next generation.</title>
+<link href='main.css' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="/yui/build/base/base-min.css"/>
+<link rel="stylesheet" type="text/css" href="/yui/build/reset-fonts-grids/reset-fonts-grids.css"/>
+
+<meta http-equiv="x-ua-compatible" content="IE=8">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
+<meta name="keywords" content="bdsm,tng,nyctng,nyc,New York City,New York,18-35,M/s,fetish,kink,bondage,master,slave,the next generation"/>
+<meta name="description" content="NYC TNG is a group established to promote and facilitate the gathering and interaction of people between the ages of 18 to 35 who are interested or think they might be interested in the BDSM or M/s lifestyle."/>
+<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+<meta name="theme-color" content="#070707" />
+<!--[if lt IE 7]>
+<style>
+#hd{
+  background-color: #000 !important;
+}
+#bd{
+  background-color: #000 !important;
+}
+</style>
+<![endif]-->
+
+<!--[if gte IE 7]>
+<style>
+#hd{
+    background-image: url('iepng.png');
+}
+#bd{
+    background-image: url('iepng.png');
+}
+</style>
+<![endif]-->
+
+
+
+
+</head>
+<body class='yui-skin-sam'>
+    <div id='doc4' class="yui-t6" style=''>
+        <div id='hd'>
+        <div id='menu'>
+            <a href='/'>Home</a> &bull; <a href='/ethos.php'>Ethos</a> &bull; <a href='/membership.php'>Membership</a> &bull; <a href='/calendar.php'>Calendar</a> &bull; <a href='/fetlife.php'>FetLife</a> &bull; <a href='/links.php'>Links</a> &bull; <a href='/faq.php'>FAQ</a> &bull; <a href='/contact.php'>Contact Us</a>
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 4th Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2014</a></div>-->
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 3rd Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2013</a></div>-->
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 2nd Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2012</a></div>-->
+        </div>
+        <a href='/'><img id='logo' src='nyctng200.png' alt=''/></a>
+        </div>
+
+        <div id='bd'>
+        <div id="yui-main">
+        <div class="yui-b">
+            <div class='header'>
+                FetLife
+            </div>
+            <div class='btext topmargin10'>
+            NYC TNG maintains a FetLife group for event notifications and interaction among its members.  If you are between the ages of 18-35 you may join the group <a href='http://fetlife.com/groups/10776'>here</a>.  Registration is required.
+            </div>
+            <div class='header topmargin50'>
+            FetLife Forum Rules and Guidelines
+            </div>
+            <div class='btext topmargin10'>
+1. NYC TNG 18-35 is a group for people ages 18-35. The Fetlife group is restricted to people ages 18 through 35. Any individual over age 35 who wishes to join the group must obtain special permission from the moderators.
+<br/><br/>
+2. All event for the NYC TNG 18-35 group are restricted to people ages 18 through 35. If an individual between the ages of 18 through 35 is in a relationship with a person over the age of 35, that person may attend the event, but shall be the sole responsibility of the of the TNGer who invited him.
+<br/><br/>
+3. Any behavior at an event or meeting or in the online group, which is considered to violate community rules, the law, or results in complaints from other members, may result in an expulsion from the Fetlife group and/or revocation of NYC TNG membership.
+<br/><br/>
+4. If at any time a group moderator is blocked by a member, said member will be removed from the group.
+<br/><br/>
+5. Do not post event advertisements without permission from the moderators. We encourage all lawful and safe activities within the scene, but do wish to maintain the site free of unnecessary, duplicative or unrelated postings. Permission shall be freely given if the advertised event follows the purpose and intent of the group. Event posts will be deleted at the conclusion of an event. For more information, see the <a href='http://fetlife.com/groups/10776/group_posts/474216'>Event Posting System Page</a>.
+<br/><br/>
+6. Do not post personal advertisements in the group. There are plenty of other groups that serve that purpose. If you wish to meet people, come to the events, get to know them, and then go from there.
+<br/><br/>
+7. In order to help facilitate constructive dialog and maintain civility, NYC TNG does not permit postings from anonymous "sock puppet" accounts. Posts that are determined to have been created by an anonymous account may be deleted and the account banned.
+<br/><br/>
+<span style='font-style: italic;'>Updated March 9, 2011</span>
+            </div>
+
+</div>
+        </div>
+<div class="yui-b">
+<div class='btext topmargin10' style='margin-left: 10px; text-align: center;'>
+<a href="http://fetlife.com/groups/10776"><img src="i_heart_fetlife_160.png" style="height: 160px; width: 160px; margin: 0 auto 0 auto;" alt="I (heart) FetLife: BDSM & Fetish Community for Kinksters, by kinksters" title="I (heart) FetLife: BDSM & Fetish Community for Kinksters, by kinksters"></a>
+</div>
+</div>
+
+
+
+
+
+        </div>
+        <div id='ft'>
+        <span style='float: right;'>Background Photo By <a href='http://www.anthelian.com/'>Anthelian</a>.</span>
+        &copy <?php echo date('Y'); ?> NYC TNG.  All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>

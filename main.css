@@ -1,0 +1,103 @@
+
+
+html{
+    background-color: #000 !important;
+    background-image: url(/nyctng.jpg) !important;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+}
+
+body{
+    color: #CCC;
+
+}
+
+#doc4{
+}
+
+#hd{
+    background-color: rgba(10,10,10,0.9);
+    height: 130px;
+    -moz-border-radius: 0 0 10px 10px;
+    -webkit-border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
+    padding: 10px;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    border-bottom: 1px solid #CCC;
+}
+#bd{
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    border-top: 1px solid #CCC;
+    margin: 200px 0 0 0;
+    padding: 30px;
+    background-color: rgba(10,10,10,0.7);
+    -moz-border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 0 0;
+}
+#ft{
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: rgba(30,30,30,0.7);
+    -moz-border-radius: 0 0 10px 10px;
+    -webkit-border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    border-bottom: 1px solid #CCC;
+}
+#logo{
+    float: left;
+    margin: 30px 20px 20px 10px;
+
+}
+#menu{
+    float: right;
+    margin: 55px 20px 30px 30px;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.header{
+    font-size: 150%;
+    font-weight: bold;
+}
+.btext{
+    font-size: 118%;
+}
+.topmargin10{
+    margin-top: 10px;
+}
+.topmargin50{
+    margin-top: 50px;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    background-color: #FFF;
+    color: #000;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+
+}
+img{
+    display: block;
+}
+a:hover img{
+    border: none !important;
+    display: block;
+}
+
+.bold{
+    font-weight: bold;
+}
+#menu a{
+    padding: 5px;
+}
+

@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1-strict.dtd">
+<html>
+<head>
+<title>NYC TNG:  We are the next generation.</title>
+<link href='main.css' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="/yui/build/base/base-min.css"/>
+<link rel="stylesheet" type="text/css" href="/yui/build/reset-fonts-grids/reset-fonts-grids.css"/>
+
+<meta http-equiv="x-ua-compatible" content="IE=8">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
+<meta name="keywords" content="bdsm,tng,nyctng,nyc,New York City,New York,18-35,M/s,fetish,kink,bondage,master,slave,the next generation"/>
+<meta name="description" content="NYC TNG is a group established to promote and facilitate the gathering and interaction of people between the ages of 18 to 35 who are interested or think they might be interested in the BDSM or M/s lifestyle."/>
+<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+<meta name="theme-color" content="#070707" />
+<!--[if lt IE 7]>
+<style>
+#hd{
+  background-color: #000 !important;
+}
+#bd{
+  background-color: #000 !important;
+}
+</style>
+<![endif]-->
+
+<!--[if gte IE 7]>
+<style>
+#hd{
+    background-image: url('iepng.png');
+}
+#bd{
+    background-image: url('iepng.png');
+}
+</style>
+<![endif]-->
+
+
+
+
+</head>
+<body class='yui-skin-sam'>
+    <div id='doc4' class="yui-t6" style=''>
+        <div id='hd'>
+        <div id='menu'>
+            <a href='/'>Home</a> &bull; <a href='/ethos.php'>Ethos</a> &bull; <a href='/membership.php'>Membership</a> &bull; <a href='/calendar.php'>Calendar</a> &bull; <a href='/fetlife.php'>FetLife</a> &bull; <a href='/links.php'>Links</a> &bull; <a href='/faq.php'>FAQ</a> &bull; <a href='/contact.php'>Contact Us</a>
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 4th Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2014</a></div>-->
+            <!--<br/><br/><div style='text-align: right;'>Announcing the 3rd Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2013</a></div>-->
+<!--            <br/><br/><div style='text-align: right;'>Announcing the 2nd Annual:  <a href='/nye'>NYC TNG Presents:  New Year's Eve 2012</a></div>-->
+        </div>
+        <a href='/'><img id='logo' src='nyctng200.png' alt=''/></a>
+        </div>
+
+        <div id='bd'>
+        <div id="yui-main">
+
+            <div class='header'>
+            NYC TNG Guiding Principals
+            </div>
+            <div class='btext topmargin10'>
+We believe it is of extreme importance that people interested in the BDSM or M/s lifestyle between the ages of 18 to 35 have an opportunity to gather in person and share ideas and concerns, or simply spend time together, in a safe environment.
+<br/><br/>The following statements express our ethos regarding the organization, its values, guidelines, and rules.
+
+
+            </div>
+
+
+            <div class='header topmargin50'>
+            Abuse, Consent, and Accountability
+            </div>
+            <div class='btext topmargin10'>
+Let it be known,
+<br/><br/>
+NYC TNG was created so we may provide a safe and convenient way for people who would otherwise be made to feel uncomfortable due to their age to enter the BDSM scene in NYC.
+<br/><br/>
+We are not affiliated with any organization, we are not in anyone's inner circle, and our existence does not depend on the support of any other group. We make no money, nor do we derive any other benefit from anything that we do. Even the proceeds from our parties do not go to us. As such, fear of revenue loss is not a driving force for us.
+
+<br/><br/>
+If at any time you are harassed, made uncomfortable, or hurt in any way either at an event where we are in attendance or at any other venue, please let us know. We try very hard to create a safe and welcoming environment for our members and have tried to change the scene to the best of our abilities in order to do that.
+
+<br/><br/>
+Our efforts are not always successful. We have no resources, no funding, and no backing, but we try very hard. We are not afraid to go to war with anyone, and have fought many event organizers in the past on behalf of our members. We do not burry our heads in the sand, and we do not run away from problems.
+
+<br/><br/>
+Do not be afraid to come to us (the group moderators) if you need help resolving an issue or to report any abuse.
+
+<br/><br/>
+NYC TNG does not condone or accept any non consensual act when it comes to BDSM activity at any and all events associated with NYC TNG, and we expect the same degree of consent to be enforced at all events we attend or associate with. Please report any non consensual act to the group moderators.
+
+<br/><br/>
+Accepting an invitation to any party/after party or any other event, private or otherwise, does not mean you implicitly or otherwise consent to any physical act. This includes, but is not limited to holding anyone's anything after they tell you to stop, "stealing" a kiss, or any other form of physical contact that comes to mind.
+
+<br/><br/>
+That is not how interactions are commonly commenced in the scene, and even in situations where they are, if one of the parties says that they do not wish to continue, consent has been withdrawn, and the interaction stops IMMEDIATELY.
+
+<br/><br/>
+Consent has to be present, continuous, and granted by a person of sound mind and can be withdrawn at any time for any reason. If the person becomes incapable of granting consent during the scene because of intoxication or physical incapacity, consent should be considered withdrawn. No other interpretation of consent is accepted at NYC TNG events.
+
+<br/><br/>
+The degree or severity of a non consensual act is irrelevant.
+
+</div>
+
+            <div class='header topmargin50'>
+            Community Rules and Scene Etiquette Guidelines
+            </div>
+            <div class='btext topmargin10'>
+<span style='font-weight: bold;'>Community Rules:</span><br/><br/>
+<div style='margin-left: 20px;'>
+<span style='font-weight: bold;'>Consent</span><br/>
+The mutual consent commandment in the BDSM scene extends to almost every facet of interaction. The one that is often most difficult for new people to internalize is touching of any sort. In a vanilla setting, casual touching is a normal part of conversation. In a scene setting, even something as innocent as touching someone's arm while talking to them is often inappropriate.
+<br/><br/>
+<span style='font-weight: bold;'>Scene space</span><br/>
+Never interrupt a scene.
+<br/><br/>
+<span style='font-weight: bold;'>Non-judgment of others</span><br/>
+Kinky people come to kinky meetings, munches, and parties so that they can be their kinky selves. To look down on someone, or worse, say hateful things about someone, based on their sexual orientation, gender status, D/s role, kink, fetish, race, ethnicity, etc. is extremely rude, and highly frowned upon in every facet of the BDSM/fetish community.
+<br/><br/>
+<span style='font-weight: bold;'>Privacy</span><br/>
+Sadly, much of what we do is viewed rather negatively by society at large. Many kinky people are at risk of losing relationships with friends or family, or even losing their job, if their kink is discovered. Because of this, privacy is very important in the scene. Don't out people if you run into them in public ("didn't I see you at Paddles last week?"), don't take photos of anyone without permission (even people in the background), don't crack your single tail in the diner during the munch.
+<br/><br/>
+</div>
+<span style='font-weight: bold;'>Etiquette Guidelines:</span><br/><br/>
+<div style='margin-left: 20px;'>
+<span style='font-weight: bold;'>Don't assume anything.</span><br/>
+A few of the many things that you should never assume about anyone: sexuality, orientation, role, relationship dynamic, interest in you or some activity, creepiness.
+<br/><br/>
+<span style='font-weight: bold;'>Don't force your kink on others. Don't force yourself onto others' kinks.</span><br/>
+BDSM is a broad spectrum of fetishes, kinks, and desires. Not everyone is interested in your particular brand of BDSM. Don't assume that, just because you're a het male sub, for example, every hot woman you see is interested in dominating you. Just because you're a dominant woman doesn't mean that every man is a worthless, grovelling worm that should worship you as a goddess. Be accepting of other people's kinks. It's the only way to get others to accept yours.
+<br/><br/>
+<span style='font-weight: bold;'>Remember your (vanilla) manners.</span><br/>
+Be polite. You can get in trouble while being polite, but you can never get into trouble for being polite.
+<br/><br/>
+</div>
+<span style='font-weight: bold;'>
+This list is by no means comprehensive. Situations may arise where you need to ignore some of these rules, and situations may arise where you can follow all of these and still come off like an asshole. It's impossible to cover every scenario imaginable, but these guidelines should help in almost every situation.
+</span> <span style='font-style: italic; color: #999;'>(courtesy AgeVitam)</span>
+            </div>
+
+            <div class='header topmargin50'>
+            Structure and Transparency
+            </div>
+            <div class='btext topmargin10'>
+NYC TNG's moderators (<a href='contact.php'>listed here</a>), are the only people who set policy for the group. No other individual, unless expressly specified by us, and posted in the group, has any authority to act or speak on behalf of the group.
+<br/><br/>
+
+NYC TNG works by organizing gatherings at vanilla locations, typically diners, where our members can gather at designated times for the purpose of socializing.
+<br/><br/>
+
+A secondary role for NYC TNG is to sift through different events and classes available to the BDSM community in NYC, and select those that we feel would be both interesting to our members and worth their time. Often we try to negotiate discounts and preferential access for those events for our members.
+<br/><br/>
+<!--
+Specifically with respect to parties that we attend as a group, typically after our meetings, we have no involvement with the organization of those events. Again, we try to negotiate preferential rates for our members, or make suggestions about the way they are ran, but we are not the ones throwing the parties, nor do we profit from them in any way. We are happy to speak to the event organizers on your behalf if you have any concerns, but in the interest of transparency, we would like to provide you with the list of organizers throwing the parties we currently attend.
+<br/><br/>
+
+<?php /*
+The TNG party that we attend on the first Sunday of each month is a private party organized and hosted by the Pride. All proceeds from the event go to the Pride and any beneficiaries selected by that organization.
+<br/><br/>
+ */ ?>
+<?php /*
+The TNG party that we attend on the second Friday of each month is a private party organized by NYC TNG and hosted by Paddles. All proceeds from the event go to Paddles.
+<br/><br/>
+<?php /*
+The {Xcess! party that we attend on the third Friday of each month is organized and hosted by Mike B. from the NYC Fetish Tribe. All proceeds from the event go to NYC Fetish Tribe and any beneficiaries selected by that organization.
+<br/><br>
+ */ ?>
+<!--
+The TES Paddles party we attend on the third Saturday of every month is organized and hosted by TES and Paddles. We have no information about the obligations and profit sharing between TES and Paddles, but all proceeds from the event go to TES and Paddles.
+<br/><br/>
+--> <!--
+The TES Paddles party we attend on the third Saturday of every month is organized and hosted by TES and Paddles. All proceeds from the event go to TES and Paddles.  Typically, 35% of the door proceeds go to TES and the remaining 65% go to Paddles.
+<br/><br/>
+
+The SUSPENSION party that we attend on the fourth Sunday of each month is organized and hosted by Mike B. and Powder from the NYC Fetish Tribe. All proceeds from the event go to NYC Fetish Tribe and any beneficiaries selected by that organization.
+<br/><br/>
+
+Again, we try to negotiate discounts, and create a safe space for our members, but we are not directly involved in the running of the events (other than the TNG party), and we DO NOT make any money from any of the events NYC TNG attends. You are always free to speak to the event organizers in person, or to ask us for help in doing so. If any individual ever claims to be speaking on behalf of NYC TNG other than the moderators specified above, please contact us.
+-->
+            </div>
+
+<div class='btext topmargin50' style="font-style: italic;">
+Updated August 25, 2014
+</div>
+
+
+        </div>
+
+        </div>
+        <div id='ft'>
+        <span style='float: right;'>Background Photo By <a href='http://www.anthelian.com/'>Anthelian</a>.</span>
+        &copy <?php echo date('Y'); ?> NYC TNG.  All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>
